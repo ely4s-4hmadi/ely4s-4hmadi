@@ -75,15 +75,19 @@ I enjoy going beyond using a model or library to understand **why an algorithm w
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@ely4s_4hmadi)
 
 
-## GitHub activity
+
+## 📊 GitHub Activity
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ely4s-4hmadi&show_icons=true&theme=github_dark&hide_border=true)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ely4s-4hmadi&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ely4s-4hmadi&layout=compact&theme=github_dark&hide_border=true)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ely4s-4hmadi&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=ely4s-4hmadi&theme=tokyonight&hide_border=true)
 
 </div>
+
 
 ## Beyond code
 
